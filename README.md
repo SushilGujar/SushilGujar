@@ -11,6 +11,7 @@
   </a>
 </div>
 
+
 <div align="center">
   <h3>💫 Designing Enterprise Solutions by harnessing the right technology 💫</h3>
 </div>
@@ -20,8 +21,10 @@
 </div>
 
 
+
 ## 🚀 About Me
 Principal architect specializing in cloud-first solutions and modernization initiatives. Expertise in designing and implementing scalable, secure, and cost-effective architectures on AWS, Azure, and GCP. Proven success in leading cloud migrations, API-first strategies, and microservices adoption. TOGAF certified and passionate about driving innovation. AI ML entusiast.
+
 
 ## ⎈ Architecture Frameworks
 ![TOGAF](https://www.opengroup.org/togaf/10thedition)
@@ -34,6 +37,8 @@ Principal architect specializing in cloud-first solutions and modernization init
 
 <div align="center">
 
+
+
 ### Programming Languages & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -43,10 +48,14 @@ Principal architect specializing in cloud-first solutions and modernization init
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+
+
 ### Generative AI Stack
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graph&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-9370DB?style=for-the-badge&logo=autoprefixer&logoColor=white)
+
+
 
 
 ### Cloud & Deployment
@@ -56,8 +65,6 @@ Principal architect specializing in cloud-first solutions and modernization init
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:3B82F6&height=100&section=footer"/>
 </div>
