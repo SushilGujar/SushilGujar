@@ -13,11 +13,11 @@
 
 
 <div align="center">
-  <h3>💫 Designing Enterprise Solutions by harnessing the right technology 💫</h3>
+  <h3>💫 Driving technology solutions for enterprises  💫</h3>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Translating+Coffee+into+IT+Solutions;One+problem+at+a+time+☕" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Solving+One+problem+at+a+time+☕" />
 </div>
 
 
